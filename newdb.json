@@ -1,0 +1,32 @@
+[
+    {
+        "age": 18,
+        "course": 1,
+        "group": "bo921pia",
+        "id": 1,
+        "name": "Ivan",
+        "patronymic": "Ivanovich",
+        "scholarship": true,
+        "surname": "Ivanov"
+    },
+    {
+        "age": 19,
+        "course": 2,
+        "group": "bo921pia",
+        "id": 2,
+        "name": "Danya",
+        "patronymic": "Artemovich",
+        "scholarship": true,
+        "surname": "Morozov"
+    },
+    {
+        "age": 19,
+        "course": 2,
+        "group": "bo921pia",
+        "id": 3,
+        "name": "Alexandr",
+        "patronymic": "Alexandrivich",
+        "scholarship": true,
+        "surname": "Alexandrov"
+    }
+]
