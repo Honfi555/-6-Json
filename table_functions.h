@@ -6,6 +6,6 @@ void head();
 
 void line();
 
-void print_table(DataBase db);
+void print_table(const DataBase& db);
 
-Student get_data();
+Student& get_data();

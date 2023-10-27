@@ -17,7 +17,7 @@ void line() {
     std::cout << " -----------------------------------------------------------------------------------------------------\n";
 }
 
-void print_table(DataBase db)
+void print_table(const DataBase& db)
 {
     std::vector<Student> students = db.getEntireDb();
     head();
@@ -37,7 +37,7 @@ void print_table(DataBase db)
     }
 }
 
-Student get_data()
+Student& get_data()
 {
     Student student;
 
