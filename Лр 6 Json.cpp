@@ -1,9 +1,8 @@
 ﻿#include <iostream>
 #include <Windows.h>
+#include <fstream>
 #include "DataBase.h"
 #include "table_functions.h"
-#include <locale>
-#include <fstream>
 
 #define RELEASE
 //#define DEBUG
