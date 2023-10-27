@@ -5,9 +5,9 @@
 #include <locale>
 #include <fstream>
 
-//#define RELEASE
+#define RELEASE
 //#define DEBUG
-#define EXAMPLE
+//#define EXAMPLE
 
 
 int main(int argc, const char* argv[])
